@@ -38,7 +38,7 @@ mirrors the laws of physics.
 
 ## Status
 - [x] Phase 1 — Light & Detection *(Complete)*
-- [x] Phase 2 — Atoms & Treatment Planning
+- [x] Phase 2 — Atoms & Treatment Planning *(Complete)*
 - [ ] Phase 3 — Time & Monitoring
 - [ ] Phase 4 — Access & Identity
 
